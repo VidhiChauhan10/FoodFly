@@ -26,7 +26,7 @@ function Nav() {
         <div className="p-2 rounded-full bg-gray-100 border border-gray-300">
           <GiKnifeFork className="text-gray-600 text-xl" />
         </div>
-        <h1 className="text-lg md:text-xl font-semibold text-gray-800">FoodyFly</h1>
+        <h1 className="text-lg md:text-xl font-semibold text-gray-800">FoodieFly</h1>
       </div>
 
       {/* Search */}
