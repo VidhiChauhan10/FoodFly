@@ -39,7 +39,7 @@ function Card({ name, image, id, price, type }) {
 
         <button
           onClick={handleAddToCart}
-          className="mt-2 py-2 rounded-md border border-gray-300 bg-gray-50 text-gray-800 hover:bg-gray-100 transition-all text-sm font-medium"
+          className="mt-2 py-2 rounded-md border border-gray-300 bg-green-500 text-gray-800 hover:bg-gray-100 transition-all text-sm font-medium"
         >
           Add to Cart
         </button>
