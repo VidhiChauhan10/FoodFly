@@ -80,7 +80,7 @@ const Landing = () => {
             >
               <div className="text-4xl mb-4">{step.icon}</div>
               <h4 className="text-xl font-semibold text-gray-800 mb-2">{step.title}</h4>
-              <p className="text-gray-600 text-sm">{step.desc}</p>
+              <p className="text-white text-sm">{step.desc}</p>
             </div>
           ))}
         </div>
